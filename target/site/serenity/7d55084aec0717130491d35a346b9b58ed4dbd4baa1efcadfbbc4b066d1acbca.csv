@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"LEX -> Desacoplamiento","Menu Estudiantes/Opcion Evaluacion estudiantes","ERROR","2020-08-28T10:29:37.249-05:00[America/Bogota]","0.0","312.66"
+"LEX -> Desacoplamiento","Menu Estudiantes/Administracion notas aprobadas","SUCCESS","2020-08-28T10:34:50.309-05:00[America/Bogota]","0.0","24.34"
+"LEX -> Desacoplamiento","Menu Estudiantes/Opcion Evaluacion estudiantes","SUCCESS","2020-08-28T10:46:10.094-05:00[America/Bogota]","0.0","11.19"
+"LEX -> Desacoplamiento","Menu Estudiantes/Administracion notas aprobadas","SUCCESS","2020-08-28T10:46:21.289-05:00[America/Bogota]","0.0","14.79"
+"LEX -> Desacoplamiento","Menu Proceso/Opcion Ingreso Proceso","SUCCESS","2020-08-28T11:48:07.405-05:00[America/Bogota]","0.0","68.67"
+"LEX: Ampliacion campo Numero documento de identidad","Menu Agendas / Opcion Agenda por usuario","SUCCESS","2020-08-28T10:50:44.922-05:00[America/Bogota]","0.0","87.6"

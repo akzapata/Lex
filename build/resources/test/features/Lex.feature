@@ -31,6 +31,7 @@ Feature: LEX -> Desacoplamiento
     When el selecciona el semestre "20201"
     Then el ve en pantalla las notas asignadas a un estudiante
 
+@Lex
   Scenario Outline: Menu Proceso/Opcion Ingreso Proceso
     Given que un administrador ingresa a la opcion ingreso proceso
     When el selecciona el area de competencia
