@@ -25,7 +25,7 @@ Feature: LEX -> Desacoplamiento
     Given que un administrador quiere consultar la evaluacion de estudiantes
     When el realiza la busqueda por semestre "20201"
     Then el ve en pantalla los datos del estudiante
-@a
+
   Scenario: Menu Estudiantes/Administracion notas aprobadas
     Given que un administrador ingresa a la opcion notas aprobadas
     When el selecciona el semestre "20201"

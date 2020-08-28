@@ -9,7 +9,7 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 @RunWith(CucumberWithSerenity.class)
 
 @CucumberOptions(features = "src/test/resources/features/",
-		tags = "@a",
+		//tags = "@Lex",
 		glue = "co.edu.eafit.definitions",
 		
 		snippets = SnippetType.CAMELCASE)

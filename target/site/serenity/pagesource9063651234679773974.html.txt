@@ -1,0 +1,149 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body topmargin="0" leftmargin="0"><html:html>
+  
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+    
+    <title>
+      Sistema para el Consultorio Juridico
+    </title>
+    <link href="http://tapproyecto.eafit.edu.co/imagenes/v1/styles/estiloEafit2005.css" type="text/css" rel="stylesheet" />
+  
+  
+    
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="http://tapproyecto.eafit.edu.co/imagenes/v1/apps/lex//fondo.gif" bgcolor="#336699">
+
+  <tbody><tr>
+
+    <td width="182"><img src="http://tapproyecto.eafit.edu.co/imagenes/v1/apps/lex/logoEafit.gif" border="0" /></td>
+
+    <td align="center"><img src="http://tapproyecto.eafit.edu.co/imagenes/v1/apps/lex/titulo.gif" border="0" /></td>
+
+    <td width="186">
+
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+        <tbody><tr>
+
+          <td align="right"><a href="http://www.eafit.edu.co" target="_blank"><img src="http://tapproyecto.eafit.edu.co/imagenes/v1/apps/lex/homeEafit.gif" border="0" /></a></td>
+
+        </tr>
+
+        <tr>
+
+          <td align="right"><img src="http://tapproyecto.eafit.edu.co/imagenes/v1/apps/lex/imagenTop.gif" border="0" /></td>
+
+        </tr>
+
+      </tbody></table></td>
+
+  </tr>
+
+</tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+<script type="text/javascript">
+_uacct = "UA-834467-2";
+urchinTracker();
+</script>
+
+
+    
+
+
+
+
+
+
+
+<table class="noprint" align="center" cellpadding="0" cellspacing="0" border="0" width="90%">
+  <tbody><tr valing="top" align="center" width="90%">
+    <td>
+      
+        <a href="/lex/administracion/index.do">
+          <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_administracion.gif" border="0" alt="AdministraciÃ³n" />
+        </a>
+      
+      
+      
+        <a href="/lex/estudiantes/index.do">
+          <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_estudiantes.gif" border="0" alt="Estudiantes" />
+        </a>
+      
+      
+       
+        <a href="/lex/consultas/index.do">
+          <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_consultas.gif" border="0" alt="Consultas" />
+        </a>
+        
+
+       
+        <a href="/lex/procesos/index.do">
+          <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_procesos.gif" border="0" alt="Procesos" />
+        </a>
+      
+                
+       
+      <a href="/lex/agenda/index.do">
+        <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_agendas.gif" border="0" alt="Agenda" /> 
+      </a> 
+        
+  
+        
+
+            
+       
+        <a href="/lex/recados/index.do">
+          <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_recados.gif" border="0" alt="Recados" />
+        </a>
+      
+     
+      <a href="/lex/contactenos.do">
+        <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_contactenos.gif" border="0" alt="Contactenos" />
+     </a>
+     <!--
+      <a href='/lex/fotos/ingresoFotoIndex.do'>
+        <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_contactenos.gif" border="0" alt="FOTOS"/>
+      </a>     
+     -->
+      <a href="/lex/ayuda/arh_ayuda.htm" target="_blank">
+        <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_ayuda.gif" border="0" alt="Ayuda" />
+      </a>
+      <a href="/lex/salir.do">
+        <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/menu_sup/btn_salir.gif" border="0" alt="Salir" />
+      </a>
+    </td>
+  </tr>
+</tbody></table>
+<br />
+<div class="noPrint" align="right">
+    <a href="javascript:window.print();">
+     <b>Imprimir</b>
+     <img src="http://tapproyecto.eafit.edu.co/imagenes/v1/icons/ico_print.gif" border="0" alt="Imprimir" />
+    </a>
+</div>
+    
+
+
+
+<p> </p>
+<p align="center">
+  <b>
+    Bienvenido(a)
+    Adriana Elvira Posso Ramirez
+  </b>
+</p>
+
+    <div align="center" class="mini">
+      Utilice <a href="http://www.microsoft.com/downloads/details.aspx?displaylang=es&amp;FamilyID=1e1550cb-5e5d-48f5-b02b-20b602228de6" target="_blank">Internet Explorer 6.0</a> o una versión superior de este navegador.
+      <p>
+    </p></div>
+   
+</html:html>
+</body></html>
