@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"LEX -> Desacoplamiento","Menu Estudiantes/Opcion Clasificacion estudiantes / Consultar Estudiante","SUCCESS","2020-08-31T16:03:47.753-05:00[America/Bogota]","0.0","26.43"
+"LEX -> Desacoplamiento","Menu Estudiantes/Opcion Evaluacion estudiantes","SUCCESS","2020-08-31T16:04:28.057-05:00[America/Bogota]","0.0","12.59"
+"LEX -> Desacoplamiento","Menu Estudiantes/Administracion notas aprobadas","SUCCESS","2020-08-31T16:04:40.647-05:00[America/Bogota]","0.0","14.11"
+"LEX -> Desacoplamiento","Menu Proceso/Opcion Ingreso Proceso","SUCCESS","2020-08-31T16:04:54.771-05:00[America/Bogota]","0.0","72.94"
+"LEX -> Desacoplamiento","Menu Proceso/Repartir Proceso","SUCCESS","2020-08-31T16:06:07.71-05:00[America/Bogota]","0.0","175.83"
+"LEX -> Desacoplamiento","Menu Consultas/Examinar consultas estudiantes","SUCCESS","2020-08-31T16:09:03.546-05:00[America/Bogota]","0.0","14.96"

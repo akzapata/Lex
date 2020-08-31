@@ -8,6 +8,7 @@ Feature: LEX -> Desacoplamiento
     When el ingresa datos usuario "apossor" y clave "12345"
     Then ve la pagina principal de Lex
 
+@Lex
   Scenario: Menu Estudiantes/Opcion Clasificacion estudiantes / Consultar Estudiante
     Given que un administrador ingresa a la opcion estudiantes
     When el realiza la busqueda por semestre y tipo de asesoria
@@ -21,17 +22,19 @@ Feature: LEX -> Desacoplamiento
     And el selecciona los datos para crer el registro
     Then el ve en pantalla mensaje de exito
 
+@Lex  
   Scenario: Menu Estudiantes/Opcion Evaluacion estudiantes
     Given que un administrador quiere consultar la evaluacion de estudiantes
     When el realiza la busqueda por semestre "20201"
     Then el ve en pantalla los datos del estudiante
+
 
   Scenario: Menu Estudiantes/Administracion notas aprobadas
     Given que un administrador ingresa a la opcion notas aprobadas
     When el selecciona el semestre "20201"
     Then el ve en pantalla las notas asignadas a un estudiante
 
-@Lex
+
   Scenario Outline: Menu Proceso/Opcion Ingreso Proceso
     Given que un administrador ingresa a la opcion ingreso proceso
     When el selecciona el area de competencia

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LEX: Ampliacion campo Numero documento de identidad" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-08-28T21:23:54" hostname="PTOF67355" time="181.283">
+<testsuite name="LEX: Ampliacion campo Numero documento de identidad" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-08-31T21:09:18" hostname="PTOF67355" time="174.297">
   <properties/>
   <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.255"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.043"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.816"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.199"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.919"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.24"/>
-  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.352"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="13.033"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="20.782"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="13.948"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.066"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.529"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.723"/>
-  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="14.335"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.98"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.401"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="13.925"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.813"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="13.16"/>
+  <testcase name="Menu Agendas / Opcion Agenda por usuario" classname="LEX: Ampliacion campo Numero documento de identidad" time="15.003"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="10.352"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="10.653"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="10.415"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="11.207"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="12.026"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="13.607"/>
+  <testcase name="Menu Consultas / Opcion Ingresar consulta" classname="LEX: Ampliacion campo Numero documento de identidad" time="16.451"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[ago 28, 2020 4:23:54 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[ago 31, 2020 4:09:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:23:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:09:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -30,9 +30,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:24:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:09:29 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:24:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:09:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -44,9 +44,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:24:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:09:42 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:24:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:09:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -58,9 +58,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:24:30 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:09:54 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:24:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:09:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -72,9 +72,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:24:42 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:10:08 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:24:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:10:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -86,9 +86,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:24:55 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:10:19 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:24:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:10:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -100,9 +100,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:25:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:10:33 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:25:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:10:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -114,9 +114,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Agendas / Opcion Agenda por usuario
 ----------------------------------------------------------------------------
-ago 28, 2020 4:25:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:10:48 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:25:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:10:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -128,9 +128,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:25:31 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:10:58 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:25:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -142,9 +142,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:25:52 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:11:09 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:25:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -156,9 +156,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:26:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:11:19 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:26:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -170,9 +170,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:26:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:11:30 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:26:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -184,9 +184,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:26:29 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:11:42 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:26:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -198,9 +198,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Consultas / Opcion Ingresar consulta
 ----------------------------------------------------------------------------
-ago 28, 2020 4:26:41 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 31, 2020 4:11:56 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 4:26:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 31, 2020 4:11:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
