@@ -9,7 +9,8 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath("net.serenity-bdd:serenity-gradle-plugin:1.9.45")     
+        classpath("net.serenity-bdd:serenity-gradle-plugin:2.1.4")     
+        classpath "net.serenity-bdd:serenity-single-page-report:2.1.4"
     }
 }
 
@@ -46,5 +47,9 @@ dependencies {
     compile 'net.serenity-bdd:serenity-core:1.9.9'
     compile 'net.serenity-bdd:serenity-junit:1.9.9'
     compile 'net.serenity-bdd:serenity-cucumber:1.9.5'
+}
+
+serenity {
+    reports = ["single-page-html"]
 }
 gradle.startParameter.continueOnFailure = true 

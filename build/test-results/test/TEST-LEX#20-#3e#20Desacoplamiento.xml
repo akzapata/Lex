@@ -1,14 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LEX -&gt; Desacoplamiento" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-28T16:48:12" hostname="PTOF67355" time="63.816">
+<testsuite name="LEX -&gt; Desacoplamiento" tests="8" skipped="1" failures="0" errors="0" timestamp="2020-08-28T21:18:44" hostname="PTOF67355" time="310.544">
   <properties/>
-  <testcase name="Menu Proceso/Opcion Ingreso Proceso" classname="LEX -&gt; Desacoplamiento" time="25.765"/>
-  <testcase name="Menu Proceso/Opcion Ingreso Proceso" classname="LEX -&gt; Desacoplamiento" time="38.045"/>
+  <testcase name="Menu Estudiantes/Opcion Clasificacion estudiantes / Consultar Estudiante" classname="LEX -&gt; Desacoplamiento" time="20.109"/>
+  <testcase name="Menu Estudiantes/Opcion Clasificacion estudiantes / Agregar Estudiante" classname="LEX -&gt; Desacoplamiento" time="16.418">
+    <skipped/>
+  </testcase>
+  <testcase name="Menu Estudiantes/Opcion Evaluacion estudiantes" classname="LEX -&gt; Desacoplamiento" time="13.739"/>
+  <testcase name="Menu Estudiantes/Administracion notas aprobadas" classname="LEX -&gt; Desacoplamiento" time="11.845"/>
+  <testcase name="Menu Proceso/Opcion Ingreso Proceso" classname="LEX -&gt; Desacoplamiento" time="19.918"/>
+  <testcase name="Menu Proceso/Opcion Ingreso Proceso" classname="LEX -&gt; Desacoplamiento" time="53.222"/>
+  <testcase name="Menu Proceso/Repartir Proceso" classname="LEX -&gt; Desacoplamiento" time="162.699"/>
+  <testcase name="Menu Consultas/Examinar consultas estudiantes" classname="LEX -&gt; Desacoplamiento" time="12.498"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[ago 28, 2020 11:48:13 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[ago 28, 2020 4:18:45 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 41444
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 35220
 Only local connections are allowed.
-ago 28, 2020 11:48:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 28, 2020 4:18:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Menu Estudiantes/Opcion Clasificacion estudiantes / Consultar Estudiante
+----------------------------------------------------------------------------
+ago 28, 2020 4:19:04 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:19:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Menu Estudiantes/Opcion Clasificacion estudiantes / Agregar Estudiante
+---------------------------------------------------------------------------------
+ago 28, 2020 4:19:20 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:19:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Menu Estudiantes/Opcion Evaluacion estudiantes
+----------------------------------------------------------------------------
+ago 28, 2020 4:19:34 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:19:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Menu Estudiantes/Administracion notas aprobadas
+----------------------------------------------------------------------------
+ago 28, 2020 4:19:46 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:19:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -20,9 +85,9 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Menu Proceso/Opcion Ingreso Proceso
 ----------------------------------------------------------------------------
-ago 28, 2020 11:48:38 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+ago 28, 2020 4:20:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-ago 28, 2020 11:48:41 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 28, 2020 4:20:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -33,6 +98,34 @@ INFORMACIÓN: Detected dialect: OSS
         /_/                                                                
 
 TEST PASSED: Menu Proceso/Opcion Ingreso Proceso
+----------------------------------------------------------------------------
+ago 28, 2020 4:20:59 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:21:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Menu Proceso/Repartir Proceso
+----------------------------------------------------------------------------
+ago 28, 2020 4:23:42 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+ago 28, 2020 4:23:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Menu Consultas/Examinar consultas estudiantes
 ----------------------------------------------------------------------------
 ]]></system-err>
 </testsuite>
